@@ -1,4 +1,4 @@
-# password.py
+# password.py      
 # MODULE #2 inside the security_tools PACKAGE.
 # A PasswordChecker object holds the password AND knows how to score
 # itself - same idea as scanner.py: data and behavior bundled together.
